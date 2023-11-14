@@ -16,6 +16,7 @@ Descripción breve del proyecto:
 Este proyecto lo hice con la ayuda en línea con un profesor de Data Science España, trata de analizar las razones por las que abandonan cierta empresa los empleados, como también el costo de formar nuevos empleados.
 Acompaño un dashboard con el resultado en la plataforma "Tableu" en el link de abajo.
 
+Enlace: https://colab.research.google.com/drive/1QP_28eiW_mWPGp5n5jRnTb1GyikFghpd?usp=sharing
 Enlace: https://public.tableau.com/views/Abandonodeempleadospracticadashboard/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link
 
 
